@@ -22,9 +22,22 @@ We have applied reservoir computing to tackle a range of challenges in nonlinear
 
 * <h6> Zheng-Meng Zhai, Ling-Wei Kong, and Ying-Cheng Lai. ''Emergence of a resonance in machine learning,'' Physical Review Research, 5, 033127, 1-12 (2023).
 
-#
+<br>
 
+##
 
+<img align="left" width='500' src="https://github.com/Zheng-Meng/zhengmengzhai.github.io/blob/master/images/inverse.png">
+
+### $\color{NavyBlue}{\textsf{Inverse model meets machine learning}}$
+
+Inverse modeling contrasts with direct modeling by working backwards from outcomes to infer unknown inputs or system characteristics. It has wide application in different disciplines such as geophysics for subsurface analysis, environmental science for pollutant tracing, and medical imaging, like MRI and CT scans, for image reconstruction.
+
+We have integrated inverse modeling with machine learning to analyze nonlinear dynamical systems. Consider the parameter tracking problem: we train a reservoir computer using constant parameters obtainable in a laboratory setting and their corresponding partial observations. During deployment, this reservoir computer tracks time-varying parameters using partial state observations, though the ground truth is no longer accessible. This idea is similarly applicable in nonlinear tracking control, where the input comprises both current and desired partial state observations, and the output generates the necessary control signals.
+
+#### Relevant Publications:
+* <h6> Zheng-Meng Zhai, Mohammadamin Moradi, Bryan Glaz, Mulugeta Haile, and Ying-Cheng Lai. ''Machine-learning parameter tracking with partial state observation,'' Physical Review Research, 6, 013196, 1-19 (2024).
+
+* <h6> Zheng-Meng Zhai, Mohammadamin Moradi, Ling-Wei Kong, Bryan Glaz, Mulugeta Haile, and Ying-Cheng Lai. ''Model-free tracking control of complex dynamical trajectories with machine learning,'' Nature Communications, 14, 5968, 1-11 (2023). 
 
 
 
