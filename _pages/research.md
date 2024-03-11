@@ -5,13 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
-<img align="left" width='500' src="https://github.com/Zheng-Meng/zhengmengzhai.github.io/blob/master/images/rc_framework.png">
+<img align="left" width='500' src="https://github.com/Zheng-Meng/zhengmengzhai.github.io/blob/master/images/rc_framework_1.png">
 
 ### $\color{NavyBlue}{\textsf{Reservoir computing}}$
 
 Reservoir computing (RC) is a type of recurrent neural networks (RNNs). It trains only the readout weights using linear regression, leaving the input weights and recurrent connection weights untrained. This approach gives RC a notable advantage over other RNNs, particularly in terms of rapid learning.
 
-We have applied reservoir computing to tackle a range of challenges in nonlinear systems, including tracking control of complex dynamical trajectories, magnetic navigation, and parameter tracking under conditions of partial state observation, among other applications.
+We have applied reservoir computing to tackle a range of challenges in nonlinear systems, including tracking control of complex dynamical trajectories, magnetic navigation, parameter tracking under conditions of partial state observation, and chaotic system predictions, among other applications.
 
 #### Relevant Publications:
 * <h6> Zheng-Meng Zhai, Mohammadamin Moradi, Ling-Wei Kong, Bryan Glaz, Mulugeta Haile, and Ying-Cheng Lai. ''Model-free tracking control of complex dynamical trajectories with machine learning,'' Nature Communications, 14, 5968, 1-11 (2023). 
