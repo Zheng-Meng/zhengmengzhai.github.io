@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<img align="left" width='500' src="https://github.com/Zheng-Meng/zhengmengzhai.github.io/blob/master/images/rc_framework_1.png">
+<img align="left" width='500' src="/images/rc_framework_1.png">
 
 ### $\color{NavyBlue}{\textsf{Reservoir computing}}$
 
@@ -24,9 +24,7 @@ We have applied reservoir computing to tackle a range of challenges in nonlinear
 
 <br>
 
-##
-
-<img align="left" width='500' src="https://github.com/Zheng-Meng/zhengmengzhai.github.io/blob/master/images/inverse.png">
+<img align="left" width='500' src="/images/inverse.png">
 
 ### $\color{NavyBlue}{\textsf{Inverse model meets machine learning}}$
 
