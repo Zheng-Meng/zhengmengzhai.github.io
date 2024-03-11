@@ -22,6 +22,8 @@ We have applied reservoir computing to tackle a range of challenges in nonlinear
 
 * <h6> Zheng-Meng Zhai, Ling-Wei Kong, and Ying-Cheng Lai. ''Emergence of a resonance in machine learning,'' Physical Review Research, 5, 033127, 1-12 (2023).
 
+#
+
 
 
 
