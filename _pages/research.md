@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+---
+
 <img align="left" width='500' src="/images/rc_framework_1.png">
 
 ### $\color{NavyBlue}{\textsf{Reservoir computing}}$
@@ -20,9 +22,9 @@ We have applied reservoir computing to tackle a range of challenges in nonlinear
 
 * <h6> Zheng-Meng Zhai, Mohammadamin Moradi, Bryan Glaz, Mulugeta Haile, and Ying-Cheng Lai. ''Machine-learning parameter tracking with partial state observation,'' Physical Review Research, 6, 013196, 1-19 (2024).
 
-* <h6> Zheng-Meng Zhai, Ling-Wei Kong, and Ying-Cheng Lai. ''Emergence of a resonance in machine learning,'' Physical Review Research, 5, 033127, 1-12 (2023).
-
 <br>
+
+---
 
 <img align="left" width='500' src="/images/inverse.png">
 
@@ -36,6 +38,23 @@ We have integrated inverse modeling with machine learning to analyze nonlinear d
 * <h6> Zheng-Meng Zhai, Mohammadamin Moradi, Bryan Glaz, Mulugeta Haile, and Ying-Cheng Lai. ''Machine-learning parameter tracking with partial state observation,'' Physical Review Research, 6, 013196, 1-19 (2024).
 
 * <h6> Zheng-Meng Zhai, Mohammadamin Moradi, Ling-Wei Kong, Bryan Glaz, Mulugeta Haile, and Ying-Cheng Lai. ''Model-free tracking control of complex dynamical trajectories with machine learning,'' Nature Communications, 14, 5968, 1-11 (2023). 
+
+<br>
+
+---
+
+<img align="left" width='500' src="/images/noise.png">
+
+### $\color{NavyBlue}{\textsf{Chaotic systems short- and long-term prediction}}$
+
+The chaotic systems can be predicted of the state variables in-short term and attractor reonstruction in long-term.
+
+We have utilized reservoir computing to predict the behavior of chaotic systems, including the Lorenz, Mackey-Glass, and Kuramoto-Sivashinsky systems, and so on, over both short and long terms. Our studies reveal that introducing an optimal level of noise enhances performance, a phenomenon we describe as stochastic resonance. To assess short-term prediction effectiveness, we defined prediction stability and horizon indicators. For evaluating long-term predictions (attractor reconstruction), we defined $\textsf{\color{blue}{deviation value}}$ (DV) as the key performance indicator.
+
+#### Relevant Publications:
+
+* <h6> Zheng-Meng Zhai, Ling-Wei Kong, and Ying-Cheng Lai. ''Emergence of a resonance in machine learning,'' Physical Review Research, 5, 033127, 1-12 (2023).
+
 
 
 
