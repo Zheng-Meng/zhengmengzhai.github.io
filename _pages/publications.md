@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 # 2024
+[8] Mohammadamin Moradi, <b>Zheng-Meng Zhai</b>, Aaron Nielsen, and Ying-Cheng Lai. ''<a href="https://doi.org/10.1063/5.0189564">Random forests for detecting weak signals and extracting physical information: A case study of magnetic navigation.</a>,'' <i> APL Machine Learning</i>, <b>2</b>, 016118 (2024).
+
+<br>
 [7] <b> Zheng-Meng Zhai</b>, Mohammadamin Moradi, Bryan Glaz, Mulugeta Haile, and Ying-Cheng Lai. ''<a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013196">Machine-learning parameter tracking with partial state observation</a>,'' <i> Physical Review Research</i>, <b>6</b>, 013196, 1-19 (2024). 
 
 # 2023
