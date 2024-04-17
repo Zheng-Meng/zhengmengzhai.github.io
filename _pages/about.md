@@ -12,11 +12,11 @@ Zheng-Meng Zhai (翟正蒙) is a Ph.D. student in Prof. [Ying-Cheng Lai](http://
 
 His research primarily focuses on solving problems in nonlinear dynamics using machine learning. His current research interests include:
 
-* **Inverse modeling** with machine learning, such as parameters extraction/tracking, and irregular sampling time series analysis
-* Nonlinear trajectory **tracking control** using machine learning
-* Machine learning applications in **magnetic navigation**
-* **Reservoir computing** mechanisms and properties, and their relationship to the brain
-* **Chaotic systems** short- and long-term prediction by machine learning
+* Inverse modeling with machine learning, such as parameters extraction/tracking, and irregular sampling time series analysis
+* Nonlinear trajectory tracking control using machine learning
+* Machine learning applications in magnetic navigation
+* Reservoir computing mechanisms and properties, and their relationship to the brain
+* Chaotic systems short- and long-term prediction by machine learning
 
 # Recent News
 * Feb. 23, 2024. Paper entitled "[Machine-learning parameter tracking with partial state observation](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013196)" published in **Physical Review Research**.
