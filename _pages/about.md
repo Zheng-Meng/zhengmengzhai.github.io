@@ -8,9 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Zheng-Meng Zhai (翟正蒙) is a Ph.D. student in Prof. [Ying-Cheng Lai](http://chaos1.la.asu.edu/~ylai1/)'s chaos group at [Arizona State University](https://www.asu.edu/). His background is in physics and he is interested in nonlinear dynamics and chaos, machine learning and neural networks, and time series analysis. 
+Zheng-Meng Zhai (翟正蒙) is a Ph.D. student in Prof. [Ying-Cheng Lai](http://chaos1.la.asu.edu/~ylai1/)'s chaos research group at [Arizona State University](https://www.asu.edu/). His background is in physics and electrical engineering, with a strong interest in nonlinear dynamics and chaos, machine learning, and neural networks, as well as time series analysis.
 
-He currently focuses on integrating inverse modeling with machine learning to analyze nonlinear dynamical systems. Projects include parameter tracking, irregular sampling time series analysis, and more.
+His research primarily focuses on solving problems in nonlinear dynamics using machine learning. His current research interests include:
+
+* **Inverse modeling** with machine learning, such as parameters extraction/tracking, and irregular sampling time series analysis
+* Nonlinear trajectory **tracking control** using machine learning
+* Machine learning applications in **magnetic navigation**
+* **Reservoir computing** mechanisms and properties, and their relationship to the brain
+* **Chaotic systems** short- and long-term prediction by machine learning
 
 # Recent News
 * Feb. 23, 2024. Paper entitled "[Machine-learning parameter tracking with partial state observation](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013196)" published in **Physical Review Research**.
