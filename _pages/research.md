@@ -22,6 +22,8 @@ We have applied reservoir computing to tackle a range of challenges in nonlinear
 
 * <h6> Zheng-Meng Zhai, Mohammadamin Moradi, Bryan Glaz, Mulugeta Haile, and Ying-Cheng Lai. ''Machine-learning parameter tracking with partial state observation,'' Physical Review Research, 6, 013196, 1-19 (2024).
 
+* <h6> Zheng-Meng Zhai, Mohammadamin Moradi, Shirin Panahi, Zhi-Hua Wang, and Ying-Cheng Lai. ''Machine-learning nowcasting of the Atlantic Meridional Overturning Circulation,'' APL Machine Learning, 2, 036103, 1-15 (2024).
+
 <br>
 
 ***
