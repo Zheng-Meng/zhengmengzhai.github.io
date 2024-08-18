@@ -11,7 +11,7 @@ author_profile: true
 
 [Oct. 2023] Wisdom of Science: <a href="https://wisdomofscience.com/machine-learning-research-enables-robots-to-traverse-flexible-complex-trajectories"> Machine learning research enables Robots to traverse flexible, complex trajectories.</a>
 
-[Oct. 2023] Jizhi Club: <a href="https://swarma.org/?p=45503"> Model-free tracking control of complex dynamic trajectories based on machinelearning.</a>
+[Oct. 2023] Swarma Club: <a href="https://swarma.org/?p=45503"> Model-free tracking control of complex dynamic trajectories based on machinelearning.</a>
 
 [Oct. 2023] The paper: <a href="https://m.thepaper.cn/newsDetail_forward_24825013"> Model-free tracking control of complex dynamic trajectories based on machinelearning.</a>
 
