@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Zheng-Meng Zhai (翟正蒙) is a fourth-year Ph.D. student in Prof. [Ying-Cheng Lai](http://chaos1.la.asu.edu/~ylai1/)'s chaos research group at [Arizona State University](https://www.asu.edu/). He received his Bachelor's degree in Electronic Information Science and Technology from [Southwest Jiaotong University](https://en.swjtu.edu.cn/), and and his Master's degree in Theoretical Physics from [East China Normal University](https://english.ecnu.edu.cn/), where he was advised by Prof. [Ming Tang](https://scholar.google.com/citations?user=z7ygE20AAAAJ&hl=en). His background is in physics and electrical engineering, with a strong interest in **nonlinear dynamics and chaos**, and **machine learning and neural networks**.
+Zheng-Meng Zhai (翟正蒙) is a fourth-year Ph.D. student in Prof. [Ying-Cheng Lai](http://chaos1.la.asu.edu/~ylai1/)'s chaos research group at [Arizona State University](https://www.asu.edu/). He received his Bachelor's degree in Electronic Information Science and Technology from [Southwest Jiaotong University](https://en.swjtu.edu.cn/), and and his Master's degree in Theoretical Physics from [East China Normal University](https://english.ecnu.edu.cn/), where he was advised by Prof. [Ming Tang](https://scholar.google.com/citations?user=z7ygE20AAAAJ&hl=en). His background is in physics and electrical engineering, with a strong interest in **nonlinear dynamics and chaos**, **machine learning and neural networks**, and **time series analysis**.
 
 His research primarily focuses on solving problems in nonlinear dynamics using machine learning. His current research interests include:
 
