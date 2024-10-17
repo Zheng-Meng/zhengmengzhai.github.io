@@ -7,7 +7,7 @@ author_profile: true
 
 ***
 
-<img align="left" width='500' src="/images/rc_framework_1.png">
+<img align="left" width='400' src="/images/rc_framework_1.png">
 
 ### $\color{NavyBlue}{\textsf{Reservoir computing}}$
 
@@ -28,7 +28,7 @@ We have applied reservoir computing to tackle a range of challenges in nonlinear
 
 ***
 
-<img align="left" width='500' src="/images/control.png">
+<img align="left" width='400' src="/images/control.png">
 
 ### $\color{NavyBlue}{\textsf{Trajectories tracking control with machine learning}}$
 
@@ -49,7 +49,7 @@ computing.
 
 ***
 
-<img align="left" width='500' src="/images/missing_data.png">
+<img align="left" width='400' src="/images/missing_data.png">
 
 ### $\color{NavyBlue}{\textsf{Dynamics recovery with no training data}}$
 
@@ -66,7 +66,7 @@ In experiments on **unseen target systems**, the reconstruction accuracy is even
 
 ***
 
-<img align="left" width='500' src="/images/inverse.png">
+<img align="left" width='400' src="/images/inverse.png">
 
 ### $\color{NavyBlue}{\textsf{Inverse model meets machine learning}}$
 
@@ -83,7 +83,7 @@ We have integrated inverse modeling with machine learning to analyze nonlinear d
 
 ***
 
-<img align="left" width='500' src="/images/noise.png">
+<img align="left" width='400' src="/images/noise.png">
 
 ### $\color{NavyBlue}{\textsf{Chaotic systems short- and long-term prediction}}$
 
