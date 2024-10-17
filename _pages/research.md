@@ -42,9 +42,6 @@ computing.
 
 <br>
 
-<br>
-
-<br>
 
 ***
 
