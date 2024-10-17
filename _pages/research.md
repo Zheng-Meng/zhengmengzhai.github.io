@@ -46,12 +46,6 @@ computing.
 
 <br>
 
-<br>
-
-<br>
-
-<br>
-
 ***
 
 <img align="left" width='500' src="/images/missing_data.png">
@@ -60,7 +54,7 @@ computing.
 
 In applications, an anticipated situation is where the system of interest has never been encountered before and sparse observations can be made only once. Can the dynamics be faithfully reconstructed from the limited observations without any training data? 
 
-We develop a hybrid **transformer** and **reservoir-computing** machine-learning scheme. Specifically, a number of known chaotic systems are used to train the transformer, while the target systems are never exposed to it. In the testing phase, the sparse data from the target system is provided to the well-trained transformer, which is espected to recover the dynamics. 
+We develop a hybrid **transformer** and **reservoir-computing** machine-learning scheme. A number of known chaotic systems are used to train the transformer, during which the target systems are never exposed to it. In testing, the sparse data from the target system is provided to the well-trained transformer to recover its dynamics. 
 
 In experiments on **unseen target systems**, the reconstruction accuracy is even high with the available data is only **20%**.
 
