@@ -28,6 +28,49 @@ We have applied reservoir computing to tackle a range of challenges in nonlinear
 
 ***
 
+<img align="left" width='500' src="/images/control.png">
+
+### $\color{NavyBlue}{\textsf{Trajectories tracking control with machine learning}}$
+
+A model-free, machine-learning framework is developed to control a two-arm robotic manipulator using only partially observed states, where the controller is realized by reservoir
+computing. 
+
+**Stochastic input** is exploited for training. By so doing, the model trained on ''random-walk'' like signals is effective on tracking a variety of periodic and chaotic signals.
+
+#### Relevant Publications:
+* <h6> Zheng-Meng Zhai, Mohammadamin Moradi, Ling-Wei Kong, Bryan Glaz, Mulugeta Haile, and Ying-Cheng Lai. ''Model-free tracking control of complex dynamical trajectories with machine learning,'' Nature Communications, 14, 5968, 1-11 (2023). 
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+***
+
+<img align="left" width='500' src="/images/missing_data.png">
+
+### $\color{NavyBlue}{\textsf{Dynamics recovery with no training data}}$
+
+In applications, an anticipated situation is where the system of interest has never been encountered before and sparse observations can be made only once. Can the dynamics be faithfully reconstructed from the limited observations without any training data? 
+
+We develop a hybrid **transformer** and **reservoir-computing** machine-learning scheme. Specifically, a number of known chaotic systems are used to train the transformer, while the target systems are never exposed to it. In the testing phase, the sparse data from the target system is provided to the well-trained transformer, which is espected to recover the dynamics. 
+
+In experiments on **unseen target systems**, the reconstruction accuracy is even high with the available data is only **20%**.
+
+#### Relevant Publications:
+* <h6> Zheng-Meng Zhai, Jun-Yin Huang, Benjamin D. Stern, and Ying-Cheng Lai. ''Hybrid machine-learning scheme for reconstructing dynamics from sparse observations with no training data,'' Preprint, (2024). 
+
+<br>
+
+***
+
 <img align="left" width='500' src="/images/inverse.png">
 
 ### $\color{NavyBlue}{\textsf{Inverse model meets machine learning}}$
