@@ -9,7 +9,7 @@ author_profile: true
 
 <img align="left" width='400' src="/images/rc_framework_1.png">
 
-### $\color{NavyBlue}{\textsf{Reservoir computing}}$
+### $\color{Red}{\textsf{Reservoir computing}}$
 
 Reservoir computing (RC) is a type of recurrent neural networks (RNNs). It trains only the readout weights using linear regression, leaving the input weights and recurrent connection weights untrained. This approach gives RC a notable advantage over other RNNs, particularly in terms of rapid learning.
 
@@ -30,7 +30,7 @@ We have applied reservoir computing to tackle a range of challenges in nonlinear
 
 <img align="left" width='400' src="/images/control.png">
 
-### $\color{NavyBlue}{\textsf{Trajectories tracking control with machine learning}}$
+### $\color{Red}{\textsf{Trajectories tracking control with machine learning}}$
 
 A model-free, machine-learning framework is developed to control a two-arm robotic manipulator using only partially observed states, where the controller is realized by reservoir
 computing. 
@@ -46,7 +46,7 @@ computing.
 
 <img align="left" width='400' src="/images/missing_data.png">
 
-### $\color{NavyBlue}{\textsf{Dynamics recovery with no training data}}$
+### $\color{Red}{\textsf{Dynamics recovery with no training data}}$
 
 Can the dynamics be faithfully reconstructed from the limited observations without any training data? 
 
@@ -63,7 +63,7 @@ In experiments on **unseen target systems**, the reconstruction accuracy is even
 
 <img align="left" width='400' src="/images/inverse.png">
 
-### $\color{NavyBlue}{\textsf{Inverse model meets machine learning}}$
+### $\color{Red}{\textsf{Inverse model meets machine learning}}$
 
 Inverse modeling contrasts with direct modeling by working backwards from outcomes to infer unknown inputs or system characteristics. It has wide application in different disciplines such as geophysics for subsurface analysis, environmental science for pollutant tracing, and medical imaging, like MRI and CT scans, for image reconstruction.
 
@@ -80,7 +80,7 @@ We have integrated inverse modeling with machine learning to analyze nonlinear d
 
 <img align="left" width='400' src="/images/noise.png">
 
-### $\color{NavyBlue}{\textsf{Chaotic systems short- and long-term prediction}}$
+### $\color{Red}{\textsf{Chaotic systems short- and long-term prediction}}$
 
 The chaotic systems can be predicted of the state variables in-short term and attractor reonstruction in long-term.
 
