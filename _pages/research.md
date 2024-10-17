@@ -42,9 +42,6 @@ computing.
 
 <br>
 
-<br>
-
-
 ***
 
 <img align="left" width='400' src="/images/missing_data.png">
