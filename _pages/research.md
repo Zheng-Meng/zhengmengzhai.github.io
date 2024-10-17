@@ -51,7 +51,7 @@ computing.
 
 ### $\color{NavyBlue}{\textsf{Dynamics recovery with no training data}}$
 
-In applications, an anticipated situation is where the system of interest has never been encountered before and sparse observations can be made only once. Can the dynamics be faithfully reconstructed from the limited observations without any training data? 
+Can the dynamics be faithfully reconstructed from the limited observations without any training data? 
 
 We develop a hybrid **transformer** and **reservoir-computing** machine-learning scheme. A number of known chaotic systems are used to train the transformer, during which the target systems are never exposed to it. In testing, the sparse data from the target system is provided to the well-trained transformer to recover its dynamics. 
 
