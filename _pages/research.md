@@ -46,7 +46,7 @@ computing.
 
 <img align="left" width='400' src="/images/missing_data.png">
 
-### $\color{Blue}{\textsf{Dynamics recovery with no training data}}$
+### $\color{Blue}{\textsf{Dynamics reconstruction with no training on target system}}$
 
 Can the dynamics be faithfully reconstructed from the limited observations without any training data? 
 
