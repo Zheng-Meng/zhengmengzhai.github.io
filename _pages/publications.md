@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 # Preprints
-[15] <b>Zheng-Meng Zhai</b>, Jun-Yin Huang, Benjamin D. Stern, and Ying-Cheng Lai, ``Reconstructing dynamics from sparse observations with no training on target system,'' <a href="https://arxiv.org/abs/2410.21222">ArXiv, (2024)</a> .
+[15] <b>Zheng-Meng Zhai</b>, Jun-Yin Huang, Benjamin D. Stern, and Ying-Cheng Lai, ``Reconstructing dynamics from sparse observations with no training on target system,'' <a href="https://arxiv.org/abs/2410.21222">ArXiv</a>, (2024) .
 
-[14] <b>Zheng-Meng Zhai</b>, Bryan Glaz, Mulugeta Haile, and Ying-Cheng Lai, ``Learning to learn ecosystems from limited data - a meta-learning approach,'' submitted to PRX Life. <a href="https://arxiv.org/abs/2410.07368">ArXiv, (2024)</a>.
+[14] <b>Zheng-Meng Zhai</b>, Bryan Glaz, Mulugeta Haile, and Ying-Cheng Lai, ``Learning to learn ecosystems from limited data - a meta-learning approach,'' submitted to PRX Life. <a href="https://arxiv.org/abs/2410.07368">ArXiv</a>, (2024).
 
-[13] <b>Zheng-Meng Zhai</b>, Mohammadamin Moradi, and Ying-Cheng Lai, ``Detecting attacks and estimating states of power grids from partial observations with machine learning,'' submitted to PRX Energy. <a href="https://chaos1.la.asu.edu/~ylai1/papers/Preprint_2024_ZML.pdf">Preprint, (2024) </a>.
+[13] <b>Zheng-Meng Zhai</b>, Mohammadamin Moradi, and Ying-Cheng Lai, ``Detecting attacks and estimating states of power grids from partial observations with machine learning,'' submitted to PRX Energy. <a href="https://chaos1.la.asu.edu/~ylai1/papers/Preprint_2024_ZML.pdf">Preprint </a>, (2024).
 
 # 2024
 [12] Mohammadamin Moradi, <b>Zheng-Meng Zhai</b>, Shirin Panahi, and Ying-Cheng Lai. ''<a href="https://doi.org/10.1063/5.0221833">Adaptive network approach to exploration-exploitation trade-off in reinforcement learning</a>,'' <i>Chaos</i> <b>34</b>, 123120, 1-14 (2024).
