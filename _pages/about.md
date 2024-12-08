@@ -27,7 +27,7 @@ I will be graduating in Summer 2025 (or possibly Winter 2025) and am actively se
 * Mar. 9, 2023. Paper entitled "[Detecting Weak Physical Signal from Noise: A Machine-Learning Approach with Applications to Magnetic-Anomaly-Guided Navigation](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.19.034030)" published in **Physical Review Applied**.
 
 # Services
-* Journal Reviewer: Nature Communications, Physical Review X, Physical Review X Energy, Physical Review Applied, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Artificial Intelligence, Neurocomputing, Information Fusion, Information Sciences, IEEE Access, Plos One.
+* Journal Reviewer: Nature Communications, Physical Review X, Physical Review X Energy, Physical Review Applied, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Artificial Intelligence, Neurocomputing, etc.
 
 # Contact Information
 Zheng-Meng Zhai
