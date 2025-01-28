@@ -16,7 +16,7 @@ Hi! I am Zheng-Meng Zhai (翟正蒙), a fourth-year Ph.D. student in Prof. [Ying
 * Machine learning mechanisms and physics-inspired machine learning
 * Chaotic systems forecasting with machine learning
 
-I will be graduating in Summer 2025 (or possibly Winter 2025) and am actively seeking a **postdoctoral** position. I would greatly appreciate any advice, opportunities, or connections!
+I will be graduating in the end of 2025 and am actively seeking a **postdoctoral** position. I would greatly appreciate any advice, opportunities, or connections!
 
 # Recent News
 * Nov. 7, 2024. Upcoming Travel. MURI project kickoff meeting. Yale University, New Haven.
