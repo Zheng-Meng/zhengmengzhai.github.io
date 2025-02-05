@@ -16,13 +16,14 @@ Reservoir computing (echo state network) for short- and long-term prediction of 
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/zheng-meng/Parameter-Tracking-with-Machine-Learning?style=social"><br>
 Tracking parameters within the system from which only partial state observation is available. Main features: (1) Only the measurements from a partial set of the dynamical variables are needed, (2) it only requires several constant parameter values in the training phase, (3) the historical parameter values are not required in real-time parameter tracking. <br>
 
+<b>[Dynamics-Reconstruction-ML](https://github.com/Zheng-Meng/Dynamics-Reconstruction-ML)</b>
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/zheng-meng/Dynamics-Reconstruction-ML?style=social"><br>
+A paradigm of reconstructing complex and nonlinear dynamics in the extreme situation where training data does not exist and the observations are random and sparse. <br>
+
 <b>[AMOC](https://github.com/Zheng-Meng/AMOC)</b>
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/zheng-meng/AMOC?style=social"><br>
 Reservoir computing to predict the Atlantic Meridional Overturning Circulation (AMOC) evolution in short term. <br>
 
-<b>[Dynamics-Reconstruction-ML](https://github.com/Zheng-Meng/Dynamics-Reconstruction-ML)</b>
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/zheng-meng/Dynamics-Reconstruction-ML?style=social"><br>
-A paradigm of reconstructing complex and nonlinear dynamics in the extreme situation where training data does not exist and the observations are random and sparse. <br>
 
 <b>[Meta-learning-Ecosystems](https://github.com/Zheng-Meng/Meta-learning-Ecosystems)</b>
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/zheng-meng/Meta-learning-Ecosystems?style=social"><br>
