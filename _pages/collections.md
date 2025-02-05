@@ -24,6 +24,9 @@ A paradigm of reconstructing complex and nonlinear dynamics in the extreme situa
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/zheng-meng/AMOC?style=social"><br>
 Reservoir computing to predict the Atlantic Meridional Overturning Circulation (AMOC) evolution in short term. <br>
 
+<b>[Power-grid-attack-detection-and-state-estimation-with-machine-learning](https://github.com/Zheng-Meng/Power-grid-attack-detection-and-state-estimation-with-machine-learning)</b>
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/zheng-meng/Power-grid-attack-detection-and-state-estimation-with-machine-learning?style=social"><br>
+Detecting attacks and estimating states of power grids from partial observations with machine learning. <br>
 
 <b>[Meta-learning-Ecosystems](https://github.com/Zheng-Meng/Meta-learning-Ecosystems)</b>
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/zheng-meng/Meta-learning-Ecosystems?style=social"><br>
