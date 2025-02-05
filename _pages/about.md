@@ -27,7 +27,7 @@ I will be graduating in the end of 2025 and am actively seeking a **postdoctoral
 * Sept. 14, 2023. Paper entitled "[Model-free tracking control of complex dynamical trajectories with machine learning](https://www.nature.com/articles/s41467-023-41379-3)" published in **Nature Communications**. $$\rm {\color{tomato} {Highlighted \ as \ a \ Featured \ Article}}$$ in Applied Physics and Mathematics.
 
 # Services
-* Journal Reviewer: Nature Communications, Physical Review X, Physical Review X Energy, Physical Review Applied, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Artificial Intelligence, Neurocomputing, etc.
+* Journal Reviewer: Nature Communications, Physical Review X, PRX Energy, Physical Review Applied, Physical Review E, Neural Networks, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Artificial Intelligence, Neurocomputing, etc.
 
 # Contact Information
 Zheng-Meng Zhai
