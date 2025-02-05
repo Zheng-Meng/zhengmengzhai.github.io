@@ -19,12 +19,12 @@ Hi! I am Zheng-Meng Zhai (翟正蒙), a fourth-year Ph.D. student in Prof. [Ying
 I will be graduating in the end of 2025 and am actively seeking a **postdoctoral** position. I would greatly appreciate any advice, opportunities, or connections!
 
 # Recent News
-* Nov. 7, 2024. Upcoming Travel. MURI project kickoff meeting. Yale University, New Haven.
+* Mar. 16, 2025. Upcoming travel. APS March Meeting. Anaheim, CA.
+* Feb. 4, 2025. Paper entitled "[Detecting Attacks and Estimating States of Power Grids from Partial Observations with Machine Learning](https://doi.org/10.1103/PRXEnergy.4.013003)" published in **PRX Energy**.
+* Nov. 7, 2024. Travel. MURI project kickoff meeting. Yale University, New Haven.
 * Jul. 30, 2024. Paper entitled "[Machine-learning nowcasting of the Atlantic Meridional Overturning Circulation](https://pubs.aip.org/aip/aml/article/2/3/036103/3305269/Machine-learning-nowcasting-of-the-Atlantic)" published in **APL Machine Learning**.
 * Feb. 23, 2024. Paper entitled "[Machine-learning parameter tracking with partial state observation](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013196)" published in **Physical Review Research**.
 * Sept. 14, 2023. Paper entitled "[Model-free tracking control of complex dynamical trajectories with machine learning](https://www.nature.com/articles/s41467-023-41379-3)" published in **Nature Communications**. $$\rm {\color{tomato} {Highlighted \ as \ a \ Featured \ Article}}$$ in Applied Physics and Mathematics.
-* Aug. 24, 2023. Paper entitled "[Emergence of a resonance in machine learning](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033127)" published in **Physical Review Research**.
-* Mar. 9, 2023. Paper entitled "[Detecting Weak Physical Signal from Noise: A Machine-Learning Approach with Applications to Magnetic-Anomaly-Guided Navigation](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.19.034030)" published in **Physical Review Applied**.
 
 # Services
 * Journal Reviewer: Nature Communications, Physical Review X, Physical Review X Energy, Physical Review Applied, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Artificial Intelligence, Neurocomputing, etc.
