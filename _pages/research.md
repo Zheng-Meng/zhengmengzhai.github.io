@@ -64,9 +64,9 @@ In experiments on unseen target systems with high sparisty observations, the mod
 
 ### $\color{Blue}{\textsf{Inverse model meets machine learning}}$
 
-Inverse modeling contrasts with direct modeling by working backwards from outcomes to infer unknown inputs or system characteristics. It has wide application in different disciplines such as geophysics for subsurface analysis, environmental science for pollutant tracing, and medical imaging, like MRI and CT scans, for image reconstruction.
+Inverse modeling contrasts with direct modeling by working backwards from outcomes to infer unknown inputs or system characteristics. 
 
-We have integrated inverse modeling with machine learning to analyze nonlinear dynamical systems. Consider the parameter tracking problem: we train a reservoir computer using **constant parameters** obtainable in a laboratory setting and their corresponding **partial observations**. During deployment, this reservoir computer tracks **time-varying parameters** using partial state observations, though the ground truth is no longer accessible. This idea is similarly applicable in nonlinear tracking control, where the input comprises both current and desired partial state observations, and the output generates the necessary control signals.
+we train a reservoir computer using constant parameters obtainable in a laboratory setting and their corresponding partial observations. During deployment, this reservoir computer tracks time-varying parameters using partial state observations, though the ground truth is no longer accessible. This idea is similarly applicable in nonlinear tracking control, where the input comprises both current and desired partial state observations, and the output generates the necessary control signals.
 
 #### Relevant Publications:
 * <h6> Zheng-Meng Zhai, Mohammadamin Moradi, Bryan Glaz, Mulugeta Haile, and Ying-Cheng Lai. ''Machine-learning parameter tracking with partial state observation,'' Physical Review Research, 6, 013196, 1-19 (2024).
@@ -83,7 +83,7 @@ We have integrated inverse modeling with machine learning to analyze nonlinear d
 
 The chaotic systems can be predicted of the state variables in-short term and attractor reonstruction in long-term.
 
-We have utilized reservoir computing to predict the behavior of chaotic systems, including the Lorenz, Mackey-Glass, and Kuramoto-Sivashinsky systems, and so on, over both short and long terms. Our studies reveal that introducing an optimal level of noise enhances performance, a phenomenon we describe as **stochastic resonance**. To assess short-term prediction effectiveness, we defined prediction stability and horizon indicators. For evaluating long-term predictions (attractor reconstruction), we defined **deviation value** (DV) as the key performance indicator.
+We have utilized reservoir computing to predict the behavior of chaotic systems, including the Lorenz, Mackey-Glass, and Kuramoto-Sivashinsky systems, and so on, over both short and long terms. Our studies reveal that introducing an optimal level of noise enhances performance, a phenomenon we describe as stochastic resonance. 
 
 #### Relevant Publications:
 
