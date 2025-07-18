@@ -35,7 +35,7 @@ We have applied reservoir computing to tackle a range of challenges in nonlinear
 A model-free, machine-learning framework is developed to control a two-arm robotic manipulator using only partially observed states, where the controller is realized by reservoir
 computing. 
 
-**Stochastic input** is exploited for training. By so doing, the model trained on ''random-walk'' like signals is effective on tracking a variety of periodic and chaotic signals.
+Stochastic input is exploited for training. By so doing, the model trained on ''random-walk'' like signals is effective on tracking a variety of periodic and chaotic signals.
 
 #### Relevant Publications:
 * <h6> Zheng-Meng Zhai, Mohammadamin Moradi, Ling-Wei Kong, Bryan Glaz, Mulugeta Haile, and Ying-Cheng Lai. ''Model-free tracking control of complex dynamical trajectories with machine learning,'' Nature Communications, 14, 5968, 1-11 (2023). 
@@ -50,9 +50,8 @@ computing.
 
 Can the dynamics be faithfully reconstructed from the limited observations without any training data? 
 
-We develop a hybrid **transformer** and **reservoir-computing** machine-learning scheme. A number of known chaotic systems are used to train the transformer, during which the target systems are never exposed to it. In testing, the sparse data from the target system is provided to the well-trained transformer to recover its dynamics. 
-
-In experiments on **unseen target systems**, the reconstruction accuracy is even high with the available data is only **20%**.
+We develop a hybrid transformer and reservoir-computing machine-learning scheme. A number of known chaotic systems are used to train the transformer, during which the target systems are never exposed to it. In testing, the sparse data from the new unseen target system is provided to the well-trained transformer to recover its dynamics. 
+In experiments on unseen target systems with high sparisty observations, the model can still reconstruct the dynamics.
 
 #### Relevant Publications:
 * <h6> Zheng-Meng Zhai, Jun-Yin Huang, Benjamin D. Stern, and Ying-Cheng Lai. ''Hybrid machine-learning scheme for reconstructing dynamics from sparse observations with no training data,'' Preprint, (2024). 
