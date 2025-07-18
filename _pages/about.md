@@ -28,7 +28,9 @@ I will be graduating in the end of 2025 and am actively seeking a **postdoctoral
 * Sept. 14, 2023. Paper entitled "[Model-free tracking control of complex dynamical trajectories with machine learning](https://www.nature.com/articles/s41467-023-41379-3)" published in **Nature Communications**. $$\rm {\color{tomato} {Highlighted \ as \ a \ Featured \ Article}}$$ in Applied Physics and Mathematics.
 
 # Services
-* Journal Reviewer: &nbsp;APL Machine Learning,&nbsp; Chaos,&nbsp; IEEE Transactions on Artificial Intelligence,&nbsp; IEEE Transactions on Emerging Topics in Computational Intelligence,&nbsp; IEEE Transactions on Neural Networks and Learning Systems,&nbsp; Information Fusion,&nbsp; Information Sciences,&nbsp; Machine Learning: Science and Technology,&nbsp; Nature Communications,&nbsp; Neural Networks,&nbsp; Neurocomputing,&nbsp; Neuromorphic Computing and Engineering,&nbsp; New Journal of Physics,&nbsp; Physica A,&nbsp; Physica Scripta,&nbsp; Physical Review Applied,&nbsp; Physical Review E,&nbsp; Physical Review X,&nbsp; PRX Energy,&nbsp; etc.
+* Journal Reviewer: &nbsp;APL Machine Learning,&nbsp; Chaos,&nbsp; IEEE Transactions on Artificial Intelligence,&nbsp; IEEE Transactions on Emerging Topics in Computational Intelligence,&nbsp; IEEE Transactions on Neural Networks and Learning Systems,&nbsp;   Nature Communications,&nbsp; Neural Networks,&nbsp; Neurocomputing,&nbsp;  New Journal of Physics,&nbsp;  Physical Review Applied,&nbsp; Physical Review E,&nbsp; Physical Review X,&nbsp; PRX Energy,&nbsp; etc.
+  
+<!-- Information Fusion,&nbsp; Information Sciences,&nbsp; Machine Learning: Science and Technology,&nbsp; Neuromorphic Computing and Engineering,&nbsp; Physica A,&nbsp; Physica Scripta,&nbsp;-->
 
 # Contact Information
 Zheng-Meng Zhai
