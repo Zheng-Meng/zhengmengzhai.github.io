@@ -18,7 +18,7 @@ Tracking parameters within the system from which only partial state observation 
 
 <b>[Dynamics-Reconstruction-ML](https://github.com/Zheng-Meng/Dynamics-Reconstruction-ML)</b>
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/zheng-meng/Dynamics-Reconstruction-ML?style=social"><br>
-Bridging known and unknown dynamics, by training on a diverse of dynamical systems, and testing on new unseen target systems with sparse and random observations. <br>
+Bridging known and unknown dynamics. Training on a diverse of dynamical systems, and testing on new unseen target systems with sparse and random observations. <br>
 
 <b>[AMOC](https://github.com/Zheng-Meng/AMOC)</b>
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/zheng-meng/AMOC?style=social"><br>
