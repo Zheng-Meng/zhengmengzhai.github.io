@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Zheng-Meng Zhai (翟正蒙), a fourth-year Ph.D. student in Prof. [Ying-Cheng Lai](http://chaos1.la.asu.edu/~ylai1/)'s chaos research group at [Arizona State University](https://www.asu.edu/). I received my Bachelor's degree in Electronic Information Science and Technology from [Southwest Jiaotong University](https://en.swjtu.edu.cn/), and my Master's degree in Theoretical Physics from [East China Normal University](https://english.ecnu.edu.cn/), where I was advised by Prof. [Ming Tang](https://scholar.google.com/citations?user=z7ygE20AAAAJ&hl=en). My background is in physics and electrical engineering, with research focus on combining **machine learning and neural networks** with **nonlinear dynamics and chaos**. Specifically, my current research projects include:
+Hi! I am Zheng-Meng Zhai (翟正蒙), a fourth-year Ph.D. student in Prof. [Ying-Cheng Lai](http://chaos1.la.asu.edu/~ylai1/)'s chaos research group at [Arizona State University](https://www.asu.edu/). I received my Bachelor's degree in Electronic Information Science and Technology from [Southwest Jiaotong University](https://en.swjtu.edu.cn/), and my Master's degree in Theoretical Physics from [East China Normal University](https://english.ecnu.edu.cn/), where I was advised by Prof. [Ming Tang](https://scholar.google.com/citations?user=z7ygE20AAAAJ&hl=en). My background is in physics and electrical engineering, with research focus on combining **machine learning** with **nonlinear dynamics**. Specifically, my current research projects include:
 
 * System dynamics recovery using hybrid transformer and reservoir computing methods
-* Inverse modeling by machine learning
 * Model-free nonlinear tracking control 
 * Machine learning mechanisms and physics-inspired machine learning
 * Chaotic systems forecasting with machine learning
