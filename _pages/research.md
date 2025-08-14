@@ -44,7 +44,7 @@ Stochastic input is exploited for training. By so doing, the model trained on ''
 
 ***
 
-<img align="left" width='400' src="/images/missing_data.jpg">
+<img align="left" width='400' src="/images/missing_data.pdf">
 
 ### $\color{Blue}{\textsf{Dynamics reconstruction with no training on target system}}$
 
@@ -88,6 +88,7 @@ We have utilized reservoir computing to predict the behavior of chaotic systems,
 #### Relevant Publications:
 
 * <h6> Zheng-Meng Zhai, Ling-Wei Kong, and Ying-Cheng Lai. ''Emergence of a resonance in machine learning,'' Physical Review Research, 5, 033127, 1-12 (2023).
+
 
 
 
