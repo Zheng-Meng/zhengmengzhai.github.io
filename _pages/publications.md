@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 # Preprints
-[15] <b>Zheng-Meng Zhai</b>, Jun-Yin Huang, Benjamin D. Stern, and Ying-Cheng Lai, ``Reconstructing dynamics from sparse observations with no training on target system,'' <a href="https://arxiv.org/abs/2410.21222">ArXiv</a>, (2024) .
 
-[14] <b>Zheng-Meng Zhai</b>, Bryan Glaz, Mulugeta Haile, and Ying-Cheng Lai, ``Learning to learn ecosystems from limited data - a meta-learning approach,'' submitted to PRX Life. <a href="https://arxiv.org/abs/2410.07368">ArXiv</a>, (2024).
+[15] <b>Zheng-Meng Zhai</b>, Bryan Glaz, Mulugeta Haile, and Ying-Cheng Lai, ``Learning to learn ecosystems from limited data - a meta-learning approach,'' submitted to PRX Life. <a href="https://arxiv.org/abs/2410.07368">ArXiv</a>, (2024).
 
 # 2025
+[14] <b>Zheng-Meng Zhai</b>, Benjamin D. Stern, and Ying-Cheng Lai, ''<a href="https://www.nature.com/articles/s41467-025-63019-8">Bridging known and unknown dynamics by transformer-based machine-learning inference from sparse observations</a>,'' <i>Nature Communications</i>, <b>16</b>, 8053, 1-12 (2025).
 
 [13] <b>Zheng-Meng Zhai</b>, Mohammadamin Moradi, and Ying-Cheng Lai, ''<a href="https://doi.org/10.1103/PRXEnergy.4.013003">Detecting attacks and estimating states of power grids from partial observations with machine learning</a>,'' <i>PRX Energy</i> <b>4</b>, 013003, 1-22 (2025).
 
@@ -42,5 +42,6 @@ author_profile: true
 # 2021
 <br>
 [1] <b> Zheng-Meng Zhai</b>, Yong-Shang Long, Ming Tang, Zonghua Liu, and Ying-Cheng Lai. ''<a href="https://doi.org/10.1103/PhysRevResearch.3.013155">Optimal inference of the start of COVID-19</a>,'' <i> Physical Review Research</i>, <b>3</b>, 013155, 1-12 (2021).
+
 
 
