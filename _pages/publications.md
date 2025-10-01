@@ -7,6 +7,8 @@ author_profile: true
 
 # Preprints
 
+[16] <b>Zheng-Meng Zhai</b>, Valerio Lucarini, and Ying-Cheng Lai, ``Deficiency of equation-finding approach to data-driven modeling of dynamical systems,'' <a href="https://arxiv.org/abs/2509.03769">ArXiv</a>, (2025).
+
 [15] <b>Zheng-Meng Zhai</b>, Bryan Glaz, Mulugeta Haile, and Ying-Cheng Lai, ``Learning to learn ecosystems from limited data - a meta-learning approach,'' submitted to PRX Life. <a href="https://arxiv.org/abs/2410.07368">ArXiv</a>, (2024).
 
 # 2025
@@ -42,6 +44,7 @@ author_profile: true
 # 2021
 <br>
 [1] <b> Zheng-Meng Zhai</b>, Yong-Shang Long, Ming Tang, Zonghua Liu, and Ying-Cheng Lai. ''<a href="https://doi.org/10.1103/PhysRevResearch.3.013155">Optimal inference of the start of COVID-19</a>,'' <i> Physical Review Research</i>, <b>3</b>, 013155, 1-12 (2021).
+
 
 
 
