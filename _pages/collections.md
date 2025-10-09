@@ -32,5 +32,6 @@ Detecting attacks and estimating states of power grids from partial observations
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/zheng-meng/Meta-learning-Ecosystems?style=social"><br>
 Learning to learn ecosystems from limited data - a meta-learning approach <br>
 
-
-
+<b>[Dynamical-Systems-Control-with-Machine-Learning](https://github.com/Zheng-Meng/Dynamical-Systems-Control-with-Machine-Learning)</b>
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/zheng-meng/Dynamical-Systems-Control-with-Machine-Learning?style=social"><br>
+Controlling dynamical systems by reservoir computing, with chaotic Lorenz system as an example.
