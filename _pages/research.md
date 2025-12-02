@@ -24,6 +24,8 @@ We have applied reservoir computing to tackle a range of challenges in nonlinear
 
 * <h6> Zheng-Meng Zhai, Mohammadamin Moradi, Shirin Panahi, Zhi-Hua Wang, and Ying-Cheng Lai. ''Machine-learning nowcasting of the Atlantic Meridional Overturning Circulation,'' APL Machine Learning, 2, 036103, 1-15 (2024).
 
+* <h6> Zheng-Meng Zhai, Benjamin D. Stern, and Ying-Cheng Lai. ''Bridging known and unknown dynamics by transformer-based machine-learning inference from sparse observations,'' Nature Communications, 16, 8053, 1-12 (2025). 
+
 <br>
 
 ***
@@ -54,7 +56,7 @@ We develop a hybrid transformer and reservoir-computing machine-learning scheme.
 In experiments on unseen target systems with high sparisty observations, the model can still reconstruct the dynamics.
 
 #### Relevant Publications:
-* <h6> Zheng-Meng Zhai, Jun-Yin Huang, Benjamin D. Stern, and Ying-Cheng Lai. ''Hybrid machine-learning scheme for reconstructing dynamics from sparse observations with no training data,'' Preprint, (2024). 
+* <h6> Zheng-Meng Zhai, Benjamin D. Stern, and Ying-Cheng Lai. ''Bridging known and unknown dynamics by transformer-based machine-learning inference from sparse observations,'' Nature Communications, 16, 8053, 1-12 (2025). 
 
 <br>
 
@@ -88,6 +90,9 @@ We have utilized reservoir computing to predict the behavior of chaotic systems,
 #### Relevant Publications:
 
 * <h6> Zheng-Meng Zhai, Ling-Wei Kong, and Ying-Cheng Lai. ''Emergence of a resonance in machine learning,'' Physical Review Research, 5, 033127, 1-12 (2023).
+
+* <h6> Zheng-Meng Zhai, Benjamin D. Stern, and Ying-Cheng Lai. ''Bridging known and unknown dynamics by transformer-based machine-learning inference from sparse observations,'' Nature Communications, 16, 8053, 1-12 (2025). 
+
 
 
 
