@@ -8,14 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Zheng-Meng Zhai (翟正蒙), a fourth-year Ph.D. student in Prof. [Ying-Cheng Lai](http://chaos1.la.asu.edu/~ylai1/)'s chaos research group at Arizona State University. I received my Bachelor's degree in Electronic Information Science and Technology from Southwest Jiaotong University, and my Master's degree in Theoretical Physics from East China Normal University, where I was advised by Prof. [Ming Tang](https://scholar.google.com/citations?user=z7ygE20AAAAJ&hl=en). My background is in physics and electrical engineering, with research focus on combining **machine learning** with **nonlinear dynamics**. Specifically, my current research projects include:
+Hi! I am Zheng-Meng Zhai (翟正蒙), a fifth-year Ph.D. student in Prof. [Ying-Cheng Lai](http://chaos1.la.asu.edu/~ylai1/)'s chaos research group at Arizona State University. I received my Bachelor's degree in Electronic Information Science and Technology from Southwest Jiaotong University, and my Master's degree in Theoretical Physics from East China Normal University, where I was advised by Prof. [Ming Tang](https://scholar.google.com/citations?user=z7ygE20AAAAJ&hl=en). My background is in physics and electrical engineering, with research focus on combining **machine learning** with **nonlinear dynamics**. My current research projects include:
 
 * System dynamics recovery using hybrid transformer and reservoir computing methods
 * Model-free nonlinear control 
 * Machine learning mechanisms and physics-inspired machine learning
 * Chaotic systems forecasting with machine learning
-
-I will be graduating in the end of 2025 and am actively seeking a **postdoctoral** position. I would greatly appreciate any advice, opportunities, or connections!
 
 # Recent News
 * Aug. 28, 2025. Paper entitled "[Bridging known and unknown dynamics by transformer-based machine-learning inference from sparse observations](https://www.nature.com/articles/s41467-025-63019-8)" published in **Nature Communications**.
