@@ -10,9 +10,7 @@ author_profile: true
 [16] <b>Zheng-Meng Zhai</b>, Valerio Lucarini, and Ying-Cheng Lai, ``Deficiency of equation-finding approach to data-driven modeling of dynamical systems,'' <a href="https://arxiv.org/abs/2509.03769">ArXiv</a>, (2025).
 
 # 2025
-[15] <b>Zheng-Meng Zhai</b>, Bryan Glaz, Mulugeta Haile, Alan Hastings, and Ying-Cheng Lai, ''<a href="https://www.pnas.org/doi/10.1073/pnas.2525347122">Learning to learn ecosystems from limited data</a>,''
-
-``Learning to learn ecosystems from limited data,'' PNAS, <b>122</b>, e2525347122, 1-9 (2025).
+[15] <b>Zheng-Meng Zhai</b>, Bryan Glaz, Mulugeta Haile, Alan Hastings, and Ying-Cheng Lai, ''<a href="https://www.pnas.org/doi/10.1073/pnas.2525347122">Learning to learn ecosystems from limited data</a>,'' PNAS, <b>122</b>, e2525347122, 1-9 (2025).
 
 [14] <b>Zheng-Meng Zhai</b>, Benjamin D. Stern, and Ying-Cheng Lai, ''<a href="https://www.nature.com/articles/s41467-025-63019-8">Bridging known and unknown dynamics by transformer-based machine-learning inference from sparse observations</a>,'' <i>Nature Communications</i>, <b>16</b>, 8053, 1-12 (2025).
 
@@ -46,6 +44,7 @@ author_profile: true
 # 2021
 <br>
 [1] <b> Zheng-Meng Zhai</b>, Yong-Shang Long, Ming Tang, Zonghua Liu, and Ying-Cheng Lai. ''<a href="https://doi.org/10.1103/PhysRevResearch.3.013155">Optimal inference of the start of COVID-19</a>,'' <i> Physical Review Research</i>, <b>3</b>, 013155, 1-12 (2021).
+
 
 
 
