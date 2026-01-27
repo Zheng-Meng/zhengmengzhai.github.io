@@ -29,9 +29,18 @@ I received my Bachelor's degree in Electronic Information Science and Technology
 * Sept. 14, 2023. Paper entitled "[Model-free tracking control of complex dynamical trajectories with machine learning](https://www.nature.com/articles/s41467-023-41379-3)" published in **Nature Communications**. $$\rm {\color{tomato} {Highlighted \ as \ a \ Featured \ Article}}$$ in Applied Physics and Mathematics.
 
 # Services
-* Journal Reviewer: &nbsp;APL Machine Learning,&nbsp; Chaos,&nbsp; IEEE Transactions on Artificial Intelligence,&nbsp; IEEE Transactions on Emerging Topics in Computational Intelligence,&nbsp; IEEE Transactions on Neural Networks and Learning Systems,&nbsp;   Nature Communications,&nbsp; Neural Networks,&nbsp; Neurocomputing,&nbsp;  New Journal of Physics,&nbsp;  Physical Review Applied,&nbsp; Physical Review E,&nbsp; Physical Review X,&nbsp; PRX Energy,&nbsp; etc.
+
+Journal Reviewer:
   
-<!-- Information Fusion,&nbsp; Information Sciences,&nbsp; Machine Learning: Science and Technology,&nbsp; Neuromorphic Computing and Engineering,&nbsp; Physica A,&nbsp; Physica Scripta,&nbsp;-->
+Nature Machine Intelligence, Nature Communications,
+
+Physical Review X, PRX Energy, Physical Review Research, Physical Review Applied, Physical Review E,
+
+IEEE Transactions on Artificial Intelligence,&nbsp; IEEE Transactions on Emerging Topics in Computational Intelligence,&nbsp; IEEE Transactions on Neural Networks and Learning Systems,
+
+Neural Networks, New Journal of Physics, Nonliear Dynamics, APL Machine Learning, Chaos, npj Complexity, etc;
+  
+<!-- Information Fusion,&nbsp; Information Sciences,&nbsp; Machine Learning: Science and Technology,&nbsp; Neuromorphic Computing and Engineering,&nbsp; Physica A,&nbsp; Physica Scripta,&nbsp; Neurocomputing-->
 
 # Contact Information
 Zheng-Meng Zhai
