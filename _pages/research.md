@@ -30,25 +30,9 @@ We have applied reservoir computing to tackle a range of challenges in nonlinear
 
 ***
 
-<img align="left" width='400' src="/images/control.png">
-
-### $\color{Blue}{\textsf{Trajectories tracking control with machine learning}}$
-
-A model-free, machine-learning framework is developed to control a two-arm robotic manipulator using only partially observed states, where the controller is realized by reservoir
-computing. 
-
-Stochastic input is exploited for training. By so doing, the model trained on ''random-walk'' like signals is effective on tracking a variety of periodic and chaotic signals.
-
-#### Relevant Publications:
-* <h6> Zheng-Meng Zhai, Mohammadamin Moradi, Ling-Wei Kong, Bryan Glaz, Mulugeta Haile, and Ying-Cheng Lai. ''Model-free tracking control of complex dynamical trajectories with machine learning,'' Nature Communications, 14, 5968, 1-11 (2023). 
-
-<br>
-
-***
-
 <img align="left" width='400' src="/images/missing_data.jpg">
 
-### $\color{Blue}{\textsf{Bridging known and unknown dynamics by machine-learning}}$
+### $\color{Blue}{\textsf{Zero-shot dynamics reconstruction}}$
 
 Can the dynamics be faithfully reconstructed from the limited observations without any training data? 
 
@@ -57,6 +41,22 @@ In experiments on unseen target systems with high sparisty observations, the mod
 
 #### Relevant Publications:
 * <h6> Zheng-Meng Zhai, Benjamin D. Stern, and Ying-Cheng Lai. ''Bridging known and unknown dynamics by transformer-based machine-learning inference from sparse observations,'' Nature Communications, 16, 8053, 1-12 (2025). 
+
+<br>
+
+***
+
+<img align="left" width='400' src="/images/control.png">
+
+### $\color{Blue}{\textsf{Tracking control with machine learning}}$
+
+A model-free, machine-learning framework is developed to control a two-arm robotic manipulator using only partially observed states, where the controller is realized by reservoir
+computing. 
+
+Stochastic input is exploited for training. By so doing, the model trained on ''random-walk'' like signals is effective on tracking a variety of periodic and chaotic signals.
+
+#### Relevant Publications:
+* <h6> Zheng-Meng Zhai, Mohammadamin Moradi, Ling-Wei Kong, Bryan Glaz, Mulugeta Haile, and Ying-Cheng Lai. ''Model-free tracking control of complex dynamical trajectories with machine learning,'' Nature Communications, 14, 5968, 1-11 (2023). 
 
 <br>
 
@@ -92,6 +92,7 @@ We have utilized reservoir computing to predict the behavior of chaotic systems,
 * <h6> Zheng-Meng Zhai, Ling-Wei Kong, and Ying-Cheng Lai. ''Emergence of a resonance in machine learning,'' Physical Review Research, 5, 033127, 1-12 (2023).
 
 * <h6> Zheng-Meng Zhai, Benjamin D. Stern, and Ying-Cheng Lai. ''Bridging known and unknown dynamics by transformer-based machine-learning inference from sparse observations,'' Nature Communications, 16, 8053, 1-12 (2025). 
+
 
 
 
