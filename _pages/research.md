@@ -30,6 +30,21 @@ We have applied reservoir computing to tackle a range of challenges in nonlinear
 
 ***
 
+<img align="left" width='400' src="/images/meta_learning.png">
+
+### $\color{Blue}{\textsf{Meta-learning with dynamical systems}}$
+
+How can reliable dynamics be learned when only very limited data are available?
+
+We develop a meta-learning framework that leverages synthetic chaotic systems to "learn how to learn" complex dynamics. During the adaptation phase, the model gathers experience from diverse synthetic systems.In the deployment phase, it rapidly reconstructs the dynamical climate of new ecological systems using only limited data. Benchmark population models and real-world datasets in ecological are used to validate.
+
+#### Relevant Publications:
+* <h6> Zheng-Meng Zhai, Bryan Glaz, Mulugeta Haile, Alan Hastings, and Ying-Cheng Lai. ''Learning to learn ecosystems from limited data,'' PNAS, 122, e2525347122, 1-9 (2025).
+
+<br>
+
+***
+
 <img align="left" width='400' src="/images/missing_data.jpg">
 
 ### $\color{Blue}{\textsf{Zero-shot dynamics reconstruction}}$
@@ -92,6 +107,7 @@ We have utilized reservoir computing to predict the behavior of chaotic systems,
 * <h6> Zheng-Meng Zhai, Ling-Wei Kong, and Ying-Cheng Lai. ''Emergence of a resonance in machine learning,'' Physical Review Research, 5, 033127, 1-12 (2023).
 
 * <h6> Zheng-Meng Zhai, Benjamin D. Stern, and Ying-Cheng Lai. ''Bridging known and unknown dynamics by transformer-based machine-learning inference from sparse observations,'' Nature Communications, 16, 8053, 1-12 (2025). 
+
 
 
 
