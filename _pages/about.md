@@ -8,16 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Zheng-Meng Zhai (翟正蒙), a fifth-year Ph.D. student in Prof. [Ying-Cheng Lai](http://chaos1.la.asu.edu/~ylai1/)'s chaos group at Arizona State University. 
+Hi! I am Zheng-Meng Zhai (翟正蒙). I recently completed my Ph.D. in Electrical Engineering at Arizona State University, from the Chaos Group led by Prof. [Ying-Cheng Lai](http://chaos1.la.asu.edu/~ylai1/).
 
 I received my Bachelor's degree in Electronic Information Science and Technology from Southwest Jiaotong University, and my Master's degree in Theoretical Physics from East China Normal University, where I was advised by Prof. [Ming Tang](https://scholar.google.com/citations?user=z7ygE20AAAAJ&hl=en). My background is in physics and electrical engineering, with research focus on combining **machine learning** with **nonlinear dynamics**. My current research projects include:
 
-* System dynamics recovery using hybrid transformer and reservoir computing methods
-* Model-free nonlinear control 
-* Machine learning mechanisms and physics-inspired machine learning
-* Chaotic systems forecasting with machine learning
+* Tipping point and critical transition prediction  
+* System dynamics recovery with hybrid transformer and reservoir computing
+* Meta learning in dynamical systems prediction
+* Physics-inspired machine learning and learning mechanisms  
+* Model-free nonlinear control
 
 # Recent News
+* Mar. 4, 2026. Successfully defended my Ph.D. dissertation.
 * Dec. 17, 2025. Paper entitled "[Learning to learn ecosystems from limited data](https://www.pnas.org/doi/10.1073/pnas.2525347122)" published in **PNAS**.
 * Aug. 28, 2025. Paper entitled "[Bridging known and unknown dynamics by transformer-based machine-learning inference from sparse observations](https://www.nature.com/articles/s41467-025-63019-8)" published in **Nature Communications**.
 * May. 11, 2025. Travel. SIAM Conference on Applications of Dynamical Systems. Denver, Co.
