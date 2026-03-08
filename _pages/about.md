@@ -19,16 +19,27 @@ I received my Bachelor's degree in Electronic Information Science and Technology
 * Model-free nonlinear control
 
 # Recent News
-* Mar. 4, 2026. Successfully defended my Ph.D. dissertation.
+* Mar. 4, 2026. Successfully defended my Ph.D. dissertation ([Defense slides](../files/zmzhai_defense_03042026_1.pptx)).
 * Dec. 17, 2025. Paper entitled "[Learning to learn ecosystems from limited data](https://www.pnas.org/doi/10.1073/pnas.2525347122)" published in **PNAS**.
 * Aug. 28, 2025. Paper entitled "[Bridging known and unknown dynamics by transformer-based machine-learning inference from sparse observations](https://www.nature.com/articles/s41467-025-63019-8)" published in **Nature Communications**.
 * May. 11, 2025. Travel. SIAM Conference on Applications of Dynamical Systems. Denver, Co.
 * Mar. 16, 2025. Travel. APS March Meeting. Anaheim, CA.
 * Feb. 4, 2025. Paper entitled "[Detecting Attacks and Estimating States of Power Grids from Partial Observations with Machine Learning](https://doi.org/10.1103/PRXEnergy.4.013003)" published in **PRX Energy**.
 * Nov. 7, 2024. Travel. MURI project kickoff meeting. Yale University, New Haven.
-* Jul. 30, 2024. Paper entitled "[Machine-learning nowcasting of the Atlantic Meridional Overturning Circulation](https://pubs.aip.org/aip/aml/article/2/3/036103/3305269/Machine-learning-nowcasting-of-the-Atlantic)" published in **APL Machine Learning**.
-* Feb. 23, 2024. Paper entitled "[Machine-learning parameter tracking with partial state observation](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013196)" published in **Physical Review Research**.
 * Sept. 14, 2023. Paper entitled "[Model-free tracking control of complex dynamical trajectories with machine learning](https://www.nature.com/articles/s41467-023-41379-3)" published in **Nature Communications**. $$\rm {\color{tomato} {Highlighted \ as \ a \ Featured \ Article}}$$ in Applied Physics and Mathematics.
+
+<!-- * Jul. 30, 2024. Paper entitled "[Machine-learning nowcasting of the Atlantic Meridional Overturning Circulation](https://pubs.aip.org/aip/aml/article/2/3/036103/3305269/Machine-learning-nowcasting-of-the-Atlantic)" published in **APL Machine Learning**.-->
+<!-- * Feb. 23, 2024. Paper entitled "[Machine-learning parameter tracking with partial state observation](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013196)" published in **Physical Review Research**.-->
+
+# Academic Experience
+
+* 2021.8 – 2026.3 (Ph.D.) Electrical Engineering, Arizona State University (Advisor: Prof. Ying-Cheng Lai)
+
+* 2021.8 - 2025.5 (M.S.) Electrical Engineering, Arizona State University (Advisor: Prof. Ying-Cheng Lai)
+
+* 2019.9 – 2022.6 (M.S.) Theoretical Physics, East China Normal University (Advisor: Prof. Ming Tang)
+
+* 2015.9 – 2019.6 (B.S.) Electronic Information Science and Technology, Southwest Jiaotong University
 
 # Services
 
