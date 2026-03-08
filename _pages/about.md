@@ -33,13 +33,13 @@ I received my Bachelor's degree in Electronic Information Science and Technology
 
 # Academic Experience
 
-* 2021.8 – 2026.3 (Ph.D.) Electrical Engineering, Arizona State University (Advisor: Prof. Ying-Cheng Lai)
+* 2021.8 – 2026.3 (Ph.D.) Arizona State University (Advisor: Prof. Ying-Cheng Lai)
 
-* 2021.8 - 2025.5 (M.S.) Electrical Engineering, Arizona State University (Advisor: Prof. Ying-Cheng Lai)
+* 2021.8 - 2025.5 (M.S.) Arizona State University (Advisor: Prof. Ying-Cheng Lai)
 
-* 2019.9 – 2022.6 (M.S.) Theoretical Physics, East China Normal University (Advisor: Prof. Ming Tang)
+* 2019.9 – 2022.6 (M.S.) East China Normal University (Advisor: Prof. Ming Tang)
 
-* 2015.9 – 2019.6 (B.S.) Electronic Information Science and Technology, Southwest Jiaotong University
+* 2015.9 – 2019.6 (B.S.) Southwest Jiaotong University
 
 # Services
 
