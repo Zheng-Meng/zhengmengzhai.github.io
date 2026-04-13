@@ -19,6 +19,7 @@ I received my Bachelor's degree in Electronic Information Science and Technology
 * Model-free nonlinear control
 
 # Recent News
+* Apr. 10, 2026. ASU LIONS Seminar. Invited talk.
 * Mar. 4, 2026. Successfully defended my Ph.D. dissertation ([Defense slides](../files/zmzhai_defense_03042026_1.pptx)).
 * Dec. 17, 2025. Paper entitled "[Learning to learn ecosystems from limited data](https://www.pnas.org/doi/10.1073/pnas.2525347122)" published in **PNAS**.
 * Aug. 28, 2025. Paper entitled "[Bridging known and unknown dynamics by transformer-based machine-learning inference from sparse observations](https://www.nature.com/articles/s41467-025-63019-8)" published in **Nature Communications**.
