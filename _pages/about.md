@@ -34,6 +34,8 @@ I received my Bachelor's degree in Electronic Information Science and Technology
 
 # Academic Experience
 
+* 2026.5 – Present (Postdoc), Arizona State University (Collaborator: Prof. Ying-Cheng Lai)
+
 * 2021.8 – 2026.3 (Ph.D.) Arizona State University (Advisor: Prof. Ying-Cheng Lai)
 
 * 2021.8 - 2025.5 (M.S.) Arizona State University (Advisor: Prof. Ying-Cheng Lai)
