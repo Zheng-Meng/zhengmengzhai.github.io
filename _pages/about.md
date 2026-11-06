@@ -23,6 +23,10 @@ My current research interests include:
 I work with approaches including reservoir computing, transformers, meta-learning, etc, with applications spanning physical, ecological, climate, and engineered nonlinear systems.
 
 # Recent News
+* Oct. 29, 2026. Our review, "[Digital twins of discrete and continuous dynamical systems](https://doi.org/10.3934/dcdsi.R260401)," published in **Discrete and Continuous Dynamical Systems - I: Intelligence**.
+* Oct. 8, 2026. Huaqiao University. Invited talk.
+* May 27, 2026. APCTP Online Seminar. Invited talk.
+* May 20, 2026. KIAS AI Center Seminar. Invited talk.
 * Apr. 10, 2026. ASU LIONS Seminar. Invited talk.
 * Mar. 4, 2026. Successfully defended my Ph.D. dissertation ([Defense slides](../files/zmzhai_defense_03042026_1.pptx)).
 * Dec. 17, 2025. Paper entitled "[Learning to learn ecosystems from limited data](https://www.pnas.org/doi/10.1073/pnas.2525347122)" published in **PNAS**.
