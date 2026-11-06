@@ -58,7 +58,7 @@ Journal Reviewer:
   
 Nature Machine Intelligence, Nature Communications,
 
-Physical Review X, Physical Review Letters, PRX Energy, Physical Review Research, Physical Review Applied, Physical Review E,
+Physical Review X, Physical Review Letters, PRX Energy, Physical Review Research, Physical Review Applied, Physical Review Fluids, Physical Review E,
 
 IEEE Transactions on Artificial Intelligence,&nbsp; IEEE Transactions on Emerging Topics in Computational Intelligence,&nbsp; IEEE Transactions on Neural Networks and Learning Systems,
 
