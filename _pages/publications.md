@@ -7,9 +7,18 @@ author_profile: true
 
 # Preprints
 
-[18] <b>Z.-M. Zhai</b>, V. Lucarini, and Y.-C. Lai, ``Deficiency of equation-finding approach to data-driven modeling of dynamical systems,'' <a href="https://arxiv.org/abs/2509.03769">ArXiv</a>, (2025).
+[22] J.-C. Rao, <b>Z.-M. Zhai</b>, and Y.-C. Lai, "<a href="https://arxiv.org/abs/2610.40984">RC Prediction: A Python Package for Parameter-Aware Reservoir Computing</a>," <i>arXiv:2610.40984</i> (2026).
+
+[21] S. Deb, <b>Z.-M. Zhai</b>, M. Haile, and Y.-C. Lai, "<a href="https://arxiv.org/abs/2604.06454">Anticipating tipping in spatiotemporal systems with machine learning</a>," <i>arXiv:2604.06454</i> (2026).
+
+[20] <b>Z.-M. Zhai</b>, V. Lucarini, and Y.-C. Lai, "<a href="https://arxiv.org/abs/2509.03769">Deficiency of equation-finding approach to data-driven modeling of dynamical systems</a>," <i>arXiv:2509.03769</i> (2025).
 
 # 2026
+
+[19] <b>Z.-M. Zhai</b>, C. Grebogi, and Y.-C. Lai, "<a href="https://journals.aps.org/prxintelligence/accepted/10.1103/c7rz-79j1">Can Transformers predict crises and collapse in nonlinear dynamical systems?</a>," <i>PRX Intelligence</i>, <b>in press</b> (2026). <a href="https://arxiv.org/abs/2605.04024">[arXiv]</a>
+
+[18] <b>Z.-M. Zhai</b>, C. Grebogi, and Y.-C. Lai, "<a href="https://doi.org/10.3934/dcdsi.R260401">Digital twins of discrete and continuous dynamical systems</a>," <i>Discrete and Continuous Dynamical Systems - I: Intelligence</i>, <b>1</b>(4), R260401 (2026).
+
 [17] J.-H. Huang, <b>Z.-M. Zhai</b>, L.-L. Ye, V. Kovanis, and Y.-C. Lai, ''<a href="https://doi.org/10.1063/5.0308651">Optimizing disorder with machine learning to harness phase synchronization</a>,'' <i>Chaos</i>, <b>36</b>, 043105, 1-14 (2026).
 
 # 2025
