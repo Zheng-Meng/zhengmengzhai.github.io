@@ -11,7 +11,7 @@ redirect_from:
 
 Hi! I am Zheng-Meng Zhai (翟正蒙), a Postdoctoral Researcher at Arizona State University, working with Prof. [Ying-Cheng Lai](http://chaos1.la.asu.edu/~ylai1/). I received my Ph.D. in Electrical Engineering from Arizona State University in May 2026. Previously, I earned my Master's degree in Theoretical Physics from East China Normal University, where I was advised by Prof. [Ming Tang](https://scholar.google.com/citations?user=z7ygE20AAAAJ&hl=en), and my Bachelor's degree in Electronic Information Science and Technology from Southwest Jiaotong University.
 
-My research lies at the intersection of **scientific machine learning, nonlinear dynamics, and AI for science**. I develop data-driven approaches to understand, reconstruct, predict, and control complex dynamical systems from limited or partial observations. A current central focus is building **dynamical digital twins** to capture long-term behaviors, parameter-dependent dynamics, bifurcations, and critical transitions. More broadly, I am interested in AI systems that can discover and test dynamical laws through observations and active experimentation.
+My research lies at the intersection of **scientific machine learning, nonlinear dynamics, and AI for science**. I develop data-driven approaches to understand, reconstruct, predict, and control complex dynamical systems from limited or partial observations. A current central focus is building digital twins to capture long-term behaviors, parameter-dependent dynamics, bifurcations, and critical transitions. 
 
 My current research interests include:
 
